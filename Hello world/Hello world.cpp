@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello world" << endl;
+	cout << "This is your fist c++ code deng" << endl;
 	system("pause");
 	return 0;
 }
